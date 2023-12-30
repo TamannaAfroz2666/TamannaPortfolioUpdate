@@ -5,9 +5,8 @@ import Main from './layout/Main/Main';
 
 function App() {
   return (
-    <div className="App">
-     <h1>hello</h1>
-     <Main/>
+    <div >
+     <Main/> 
 
 
     </div>
